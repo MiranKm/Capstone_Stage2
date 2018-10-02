@@ -36,7 +36,9 @@ public class ViewActivity extends AppCompatActivity {
 
     private static final String TAG = "ViewActivity";
     public static final String CATEGORY_ITEM = "ITEM";
-    public static final String API_LINK = "https://www.adeptgenerators.com/data.json";
+    //todo add the api link
+    public static final String API_LINK = "";
+
     getDataAsyncTask viewActivity = new getDataAsyncTask();
     public static String itemToShow = "null";
 
