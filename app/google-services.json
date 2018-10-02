@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "433341560269",
+    "firebase_url": "https://knowmore-7d54f.firebaseio.com",
+    "project_id": "knowmore-7d54f",
+    "storage_bucket": "knowmore-7d54f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433341560269:android:34f4aa03ec1cf33c",
+        "android_client_info": {
+          "package_name": "com.example.miranpc.knowmore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433341560269-qe3jelj1eefiu8p4c46utjgf1nilaftk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.miranpc.knowmore",
+            "certificate_hash": "0a854861fb139507cf0e896e7c19ca3b0db371c6"
+          }
+        },
+        {
+          "client_id": "433341560269-usla26l9e9ru85fcindvqb5r51jj3eru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFvekgMpCsk5Jwv3MoouR-WcLAX24PvA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433341560269-usla26l9e9ru85fcindvqb5r51jj3eru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

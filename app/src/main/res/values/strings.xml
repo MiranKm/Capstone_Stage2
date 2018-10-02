@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Know More</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_activity_startreading_button">Start Reading</string>
+    <string name="main_activity_info_paragrapgh_text">Every day you will recive new facts and Information about the topics you want</string>
+    <string name="main_activity_know_more_text">Know More</string>
+    <string name="delete">delete</string>
+    <string name="Edit">Edit</string>
+    <string name="Add">Add</string>
+    <string name="saved">Saved</string>
+    <string name="text_holder_fact">Fact</string>
+    <string name="holder_resources">Resource</string>
+
+</resources>
