@@ -14,7 +14,6 @@ android {
     }
     buildTypes {
 
-
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
@@ -56,6 +55,7 @@ dependencies {
     implementation "android.arch.lifecycle:livedata:$lifecycle_version"
     implementation "android.arch.lifecycle:runtime:$lifecycle_version"
     implementation "android.arch.persistence.room:runtime:$room_version"
+
     //noinspection GradleCompatible
     implementation 'com.android.support:support-v4:28.0.0'
     implementation 'com.google.firebase:firebase-crash:16.2.0'

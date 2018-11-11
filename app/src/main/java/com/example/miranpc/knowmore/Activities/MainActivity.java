@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         checkIfStarted();
-
         started();
     }
 
@@ -26,7 +25,6 @@ public class MainActivity extends AppCompatActivity {
         SharedPreferences preferences = getDefaultSharedPreferences(this);
         boolean started = preferences.getBoolean("started", false);
         if (started==false){
-
         }
         else{
             startActivity(new Intent(this, CategoriesActivity.class));

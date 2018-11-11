@@ -9,7 +9,7 @@ import android.os.Parcelable;
 @Entity
 public class Fact implements Parcelable {
 
-    @PrimaryKey
+    @PrimaryKey(autoGenerate = true)
     private int id;
     private String topic;
     private String resource;
